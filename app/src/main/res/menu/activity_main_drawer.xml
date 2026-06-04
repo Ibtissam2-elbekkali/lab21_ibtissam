@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/menu_sensors"
+            android:icon="@drawable/ic_sensors"
+            android:title="Capteurs" />
+        <item
+            android:id="@+id/menu_temperature"
+            android:icon="@mipmap/temp"
+            android:title="Température" />
+        <item
+            android:id="@+id/menu_humidity"
+            android:icon="@mipmap/humd"
+            android:title="Humidité" />
+        <item
+            android:id="@+id/menu_proximity"
+            android:icon="@mipmap/proximity"
+            android:title="Proximité" />
+        <item
+            android:id="@+id/menu_magnetic"
+            android:icon="@mipmap/magnetic"
+            android:title="Champ Magnétique" />
+        <item
+            android:id="@+id/menu_accelerometer"
+            android:icon="@drawable/ic_baseline_screen_rotation_24"
+            android:title="Accéléromètre" />
+        <item
+            android:id="@+id/menu_gravity"
+            android:icon="@drawable/ic_baseline_screen_rotation_24"
+            android:title="Gravité" />
+        <item
+            android:id="@+id/menu_gyroscope"
+            android:icon="@drawable/ic_baseline_screen_rotation_24"
+            android:title="Gyroscope" />
+        <item
+            android:id="@+id/menu_steps"
+            android:icon="@drawable/ic_home"
+            android:title="Compteur de pas" />
+        <item
+            android:id="@+id/menu_compass"
+            android:icon="@mipmap/compass"
+            android:title="Boussole" />
+        <item
+            android:id="@+id/menu_activity"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Reconnaissance d'Activité" />
+    </group>
+
+</menu>

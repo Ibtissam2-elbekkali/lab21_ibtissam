@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sensors — Ibtissam</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <string name="nav_header_title">Ibtissam</string>
+    <string name="nav_header_subtitle">Lab 21 — Capteurs Android</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="menu_tools">Outils</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="menu_list">Capteurs</string>
+    <string name="menu_temp">Température</string>
+    <string name="menu_humid">Humidité</string>
+    <string name="menu_proximity">Proximité</string>
+    <string name="menu_magnetic">Magnétisme</string>
+    <string name="menu_compass">Boussole</string>
+    <string name="message_neg">Ce capteur n\'est pas supporté sur cet appareil</string>
+    <string name="hello_blank_fragment">Fragment Vide</string>
+    <string name="menu_rotation">Rotation</string>
+</resources>
